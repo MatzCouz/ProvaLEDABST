@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-05T16:44:30.500-0300</date>
+  <logger>MATHEUS DE SOUZA COUTINHO</logger>
+  <level>FINE</level>
+  <message>File 116111247-MATHEUS DE SOUZA COUTINHO.zip was received. It was sent by MATHEUS DE SOUZA COUTINHO from IP 127.0.1.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-06T23:09:33.116-0300</date>
+  <logger>MATHEUS DE SOUZA COUTINHO</logger>
+  <level>FINE</level>
+  <message>File 116111247-MATHEUS DE SOUZA COUTINHO.zip was received. It was sent by MATHEUS DE SOUZA COUTINHO from IP 192.168.15.5</message>
+</record>
